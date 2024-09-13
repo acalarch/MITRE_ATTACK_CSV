@@ -5,9 +5,13 @@ This repository contains two files.
 
  
 This project is not affiliated with MITRE. 
+
 The official MITRE ATT&CK website is https://attack.mitre.org/ 
+
 The official MITRE Repos used to generate the CSV are hosted here:  
+
 https://github.com/mitre-attack/attack-stix-data/  
+
 
 
 ---LICENSE Requirment from MITRE---
